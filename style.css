@@ -182,6 +182,7 @@ p {
     border-radius: 5px;
     box-shadow: 0 0 3px grey;
     margin-top: 5px;
+    outline: none;
 }
 
 .contact-form-center form div {
@@ -210,6 +211,8 @@ p {
     background-color: white;
     box-shadow: 0 0 3px black; 
 }
+
+
 
 
 
